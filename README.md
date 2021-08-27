@@ -1,4 +1,4 @@
-# karbo-simple-pay
+# Urbancash-simple-pay
 Simle Payment Gateway via Urbancash masternodes' Decentralized API
 
 It can check payment via any Urbancash masternode starting of version v.2.3.234.
