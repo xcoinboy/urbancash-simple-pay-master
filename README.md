@@ -1,7 +1,7 @@
 # karbo-simple-pay
-Simle Payment Gateway via Karbo masternodes' Decentralized API
+Simle Payment Gateway via Urbancash masternodes' Decentralized API
 
-It can check payment via any Karbo masternode starting of version v.1.5.8.
+It can check payment via any Urbancash masternode starting of version v.2.3.234.
 Required JSON RPC methods: `get_transaction_hashes_by_payment_id` and `check_tx_with_view_key`. 
 
 ## How to use
